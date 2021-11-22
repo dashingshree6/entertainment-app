@@ -1,0 +1,25 @@
+.explore {
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
+
+.h1{
+    color: rgb(218, 218, 6);
+    border-bottom: 2px solid grey;
+}
+
+.img1 {
+    width: 400px;
+    height: 200px;
+}
+.h2 {
+    color: gray;
+}
+
+.imdb {
+    column-count: 3;
+}
+
+.imdbb {
+    margin-top: 0.5rem;
+}
