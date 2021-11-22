@@ -1,6 +1,6 @@
 # Entertainment App
 
-## Here are some of the apges of entertainment app.
+## Here are some of the pages of entertainment app.
 
 ## Landing Page
 
