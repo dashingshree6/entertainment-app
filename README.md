@@ -16,9 +16,9 @@
 
 ## Login Page
 
-![LandingPage](../main/images/ET-LOGIN.png)
+![LoginPage](../main/images/ET-LOGIN.png)
 
 ## Sign Up Page
 
-![LandingPage](../main/images/ET-SIGNUP.png)
+![SigninPage](../main/images/ET-SIGNUP.png)
 
